@@ -1,5 +1,10 @@
 
 
+---
+title: ReadMe LandingAI Test
+excerpt: 
+hidden: false
+---
 # LandingLens Python Library
 The LandingLens Python library contains the LandingLens development library and examples that show how to integrate your app with LandingLens in a variety of scenarios. The examples cover different model types, image acquisition sources, and post-procesing techniques.
 
@@ -85,7 +90,7 @@ with Webcam(fps=0.5) as webcam:
 
 We've provided some examples in Jupyter Notebooks to focus on ease of use, and some examples in Python apps to provide a more robust and complete experience.
 
-<!-- Generated using https://www.tablesgenerator.com/markdown_tables -->
+
 
 | Example | Description | Type |
 |---|---|---|
